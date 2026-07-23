@@ -23,4 +23,3 @@
 
 ## Relacionamento
 
-Um pedido (`orders`) possui vários itens (`items`), indicando um relacionamento **1:N** (Um para Muitos).
